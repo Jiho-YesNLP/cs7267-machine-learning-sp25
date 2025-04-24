@@ -18,3 +18,6 @@
 | Jackfruit   | Fusion Graph                                                                    | Subramanian Mayakkaruppan, Sandeep Reddy Katapalli, Prachet Varma | <a href="https://kennesaw.voicethread.com/myvoice/thread/30668769/172964956/155423083">presentation</a>    |
 
 
+Post-review survey form for section 02w students: 
+
+https://forms.office.com/r/yHP1zJnVHZ
