@@ -4,6 +4,8 @@
 
 ### Project Presentations:
 
+All the links are shared with people in Kennesaw State University. If you have trouble accessing the links, please contact the course instructor.
+
 | TeamID      | title                                                                           | members                                                           | artifacts                                                                                                  |
 |-------------|---------------------------------------------------------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | Apple       | Data Magicians - Machine Learning Concept Map                                   | Ashley Archibald, Juston Bryant, Daylin Hart                      | <a href="https://tinyurl.com/2casnwxm">(narrated) slides</a>                                               |
