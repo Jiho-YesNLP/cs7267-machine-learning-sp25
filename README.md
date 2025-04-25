@@ -17,7 +17,7 @@ All the links are shared with people in Kennesaw State University. If you have t
 | Graph       | Domain-Specific Keyword Extraction & Concept Relationships Using NLP Techniques | Nyah Robinson, Alex Wills                                         | <a href="https://tinyurl.com/2yf6xymz">slides</a>, <a href="https://tinyurl.com/29cvmye6">presentation</a> |
 | Huckleberry | From Text to Map: Automating Concept Extraction and Relationship Modeling       | Jalen Springer, Parker Goins, Ricky Clark                         | <a href="https://tinyurl.com/29xueonr">(narrated) slides</a>                                               |
 | Ita Palm    | Project LexiMap                                                                 | Michael Zimmerman, Clark Pfonl, Ian Taylor                        | <a href="https://tinyurl.com/2c32dr5y">slides</a>, <a href="https://tinyurl.com/2byfg7xd">presentation</a> |
-| Jackfruit   | Fusion Graph                                                                    | Subramanian Mayakkaruppan, Sandeep Reddy Katapalli, Prachet Varma | <a href="https://kennesaw.voicethread.com/myvoice/thread/30668769/172964956/155423083">presentation</a>    |
+| Jackfruit   | Fusion Graph                                                                    | Subramanian Mayakkaruppan, Sandeep Reddy Katapalli, Prachet Varma | <a href="https://kennesawedu.sharepoint.com/:p:/s/Team-CS72672025Spring-ConceptExtractionandMapConstructionpro/EZT6a2y5eklPmvBgSWWytmoBJKAfeTnIkdZ67Sa3bV6c7g?e=Nou3t4">slides</a>, <a href="https://kennesaw.voicethread.com/myvoice/thread/30668769/172964956/155423083">presentation</a>    |
 
 
 Post-review survey form for section 02w students: 
